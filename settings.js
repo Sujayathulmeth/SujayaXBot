@@ -11,24 +11,24 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "SujayaXBot" //ur yt chanel name
+global.ytname = "RowdyXBot" //ur yt chanel name
 global.socialm = "GitHub: Sujayathulmeth" //ur github or insta name
 global.location = "Srilanka,Colombo" //ur location
 
 //new
-global.botname = 'Sujaya Bot MD V11' //ur bot name
-global.ownernumber = '94741443591' //ur owner number
-global.ownername = 'SujayaXBot' //ur owner name
+global.botname = 'Rowdy Bot MD V11' //ur bot name
+global.ownernumber = '94783632283' //ur owner number
+global.ownername = 'RowdyXBot' //ur owner name
 global.websitex = "https://youtu.be/-Omye-W0pTE"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🦊'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD10' //script link
-global.packname = "Sticker By SujayaXBot"
-global.author = "🦄SujayaXBot\n\n+94741443591"
-global.creator = "94741443591@s.whatsapp.net"
+global.packname = "Sticker By RowdyXBot"
+global.author = "🦄RowdyXBot\n\n+94783632283"
+global.creator = "94783632283@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94741443591"] // Premium User
+global.premium = ["94783632283"] // Premium User
 global.hituet = 0
 
 //bot sett
